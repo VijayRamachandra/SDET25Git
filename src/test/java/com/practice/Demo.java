@@ -13,5 +13,6 @@ public class Demo {
 		System.out.println("SDET25");
 		System.out.println("Push1");
 		System.out.println("Push 2");
+		System.out.println("Push 3 from user 2");
 	}
 }
