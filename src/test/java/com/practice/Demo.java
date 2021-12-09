@@ -12,5 +12,6 @@ public class Demo {
 		System.out.println("Hello 1");
 		System.out.println("SDET25");
 		System.out.println("Push1");
+		System.out.println("Push 2");
 	}
 }
