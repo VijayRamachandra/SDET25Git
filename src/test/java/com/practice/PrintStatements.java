@@ -2,7 +2,7 @@ package com.practice;
 
 import org.testng.annotations.Test;
 
-public class DemoTest {
+public class PrintStatements {
 	
 	@Test
 	public void demo() {
